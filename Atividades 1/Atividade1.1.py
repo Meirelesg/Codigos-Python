@@ -1,5 +1,6 @@
-salario = float(input("Insira o seu salário atual: "))
+salario = float(input("Insira o seu salário que você recebe: "))
 CH = int(input("Quantas horas você trabalha por dia: "))
 
-calculo = CH * salario
-print("você recebe {} por hora".format(calculo))
+horasTrabalhadas = salario / CH
+
+print("Você receberá {:.2f} por horas trabalhadas".format(horasTrabalhadas))
