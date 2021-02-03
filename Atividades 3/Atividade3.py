@@ -17,7 +17,7 @@ for a in range(0,pessoas):
         print("Bem vinda Sra.",nome)
     
     time.sleep(1)  #Esperando 1 segundo xD
-    ost.system("cls") #Limpa tela
+    os.system("cls") #Limpa tela
 
 print("A Quantidade de Homens é de: ", H)
 print("A Quantidade de Mulheres é de: ", F)
