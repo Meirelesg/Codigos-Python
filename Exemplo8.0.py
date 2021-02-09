@@ -24,7 +24,7 @@ print(pessoas)
 
 '''
 
-pessoas.clear                  #Limpa a lista 
+pessoas.clear()                 #Limpa a lista 
 del(pessoas)                   #Apagar a lista
 print(pessoas,"\n\n")
 

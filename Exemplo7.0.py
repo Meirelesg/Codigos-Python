@@ -14,6 +14,7 @@ print("Judite esá na posição: ", pessoas.index("Judite"))      ------------ M
 for >indice<,~i~ in enumerete(pessoas)           -> mostrar o lugar na"indice"      ~> "i" não sei kkkk
     print(f"{indice} -> {i}")
 
+
 '''
 
 
