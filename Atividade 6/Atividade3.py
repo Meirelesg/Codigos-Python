@@ -5,7 +5,7 @@ contato = {}
 listaContato = []
 
 while True:
-    system("clss")
+    system("cls")
     print("="*40)
     print(f"{'Agenda':^40}")
     print("="*40)
