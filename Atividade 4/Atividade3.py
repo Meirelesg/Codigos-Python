@@ -11,4 +11,4 @@ while contador <= 10:
         soma = contador + valor
     contador = contador + 1
 print("A soma dos valores positivos é: ", soma)
-print("A quantidade de valores negativos é: ",contadorN)
+print("A quantidade de valores negativos é: ",contador)
