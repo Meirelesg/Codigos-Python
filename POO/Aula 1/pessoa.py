@@ -20,7 +20,9 @@ class Dog:
     
     def correr(self):
         print("O dog está correndo")
+    
     def latir(self):
         print("AU AU AU AU SAFADO!!!")
+    
     def dormir(self):
         print("mimir")

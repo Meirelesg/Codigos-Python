@@ -7,4 +7,3 @@ alguem = Pessoa()
 print(alguem.idade)
 
 caozin = Dog()
-print(dog.latir)
